@@ -1,4 +1,4 @@
-# ⭐ Michi-WaBot
+# ⭐ MARIA_WA
 
 <div align="center">
   <img src="https://iili.io/FZQTsXR.jpg" alt="Michi-WaBot Logo" width="150"/>
